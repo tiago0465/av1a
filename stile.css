@@ -1,9 +1,9 @@
 body {
- background-image: url(pngtree-fire-phoenix-wallpaper-hd-image_2670157.jpg);
+ background-image: url("pngtree-fire-phoenix-wallpaper-hd-image_2670157.jpg");
  background-repeat: no-repeat;
  background-size: cover;
 }
-h1{
+h1 {
     text-align: center;
     color: black;
     font-size: 60px;
