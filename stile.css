@@ -5,12 +5,12 @@ body {
 }
 h1 {
     text-align: center;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 60px;
 }
 .botao{
-    background-color: brown;
-    color: blue;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     border: none;
     text-align: center;
     padding: 22px 30px;
